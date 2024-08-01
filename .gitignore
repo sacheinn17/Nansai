@@ -1,0 +1,144 @@
+*.png
+*blend
+*blend1
+*.mp3
+*.jpg
+*.mp4
+sensorStack/
+*.jpeg
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/*
+
+# Flutter repo-specific
+app/nensai/bin/cache/
+app/nensai/bin/internal/bootstrap.bat
+app/nensai/bin/internal/bootstrap.sh
+app/nensai/bin/mingit/
+app/nensai/dev/benchmarks/mega_gallery/
+app/nensai/dev/bots/.recipe_deps
+app/nensai/dev/bots/android_tools/
+app/nensai/dev/devicelab/ABresults*.json
+app/nensai/dev/docs/doc/
+app/nensai/dev/docs/api_docs.zip
+app/nensai/dev/docs/flutter.docs.zip
+app/nensai/dev/docs/lib/
+app/nensai/dev/docs/pubspec.yaml
+app/nensai/dev/integration_tests/**/xcuserdata
+app/nensai/dev/integration_tests/**/Pods
+app/nensai/packages/flutter/coverage/
+app/nensai/version
+app/nensai/analysis_benchmark.json
+app/nensai/
+app/nensai/# packages file containing multi-root paths
+app/nensai/.packages.generated
+app/nensai/
+app/nensai/# Flutter/Dart/Pub related
+app/nensai/**/doc/api/
+app/nensai/.dart_tool/
+app/nensai/.flutter-plugins
+app/nensai/.flutter-plugins-dependencies
+app/nensai/**/generated_plugin_registrant.dart
+app/nensai/.packages
+app/nensai/.pub-preload-cache/
+app/nensai/.pub-cache/
+app/nensai/.pub/
+app/nensai/build/
+app/nensai/flutter_*.png
+app/nensai/linked_*.ds
+app/nensai/unlinked.ds
+app/nensai/unlinked_spec.ds
+app/nensai/
+app/nensai/# Android related
+app/nensai/**/android/**/gradle-wrapper.jar
+app/nensai/.gradle/
+app/nensai/**/android/captures/
+app/nensai/**/android/gradlew
+app/nensai/**/android/gradlew.bat
+app/nensai/**/android/local.properties
+app/nensai/**/android/**/GeneratedPluginRegistrant.java
+app/nensai/**/android/key.properties
+app/nensai/*.jks
+app/nensai/
+app/nensai/# iOS/XCode related
+app/nensai/**/ios/**/*.mode1v3
+app/nensai/**/ios/**/*.mode2v3
+app/nensai/**/ios/**/*.moved-aside
+app/nensai/**/ios/**/*.pbxuser
+app/nensai/**/ios/**/*.perspectivev3
+app/nensai/**/ios/**/*sync/
+app/nensai/**/ios/**/.sconsign.dblite
+app/nensai/**/ios/**/.tags*
+app/nensai/**/ios/**/.vagrant/
+app/nensai/**/ios/**/DerivedData/
+app/nensai/**/ios/**/Icon?
+app/nensai/**/ios/**/Pods/
+app/nensai/**/ios/**/.symlinks/
+app/nensai/**/ios/**/profile
+app/nensai/**/ios/**/xcuserdata
+app/nensai/**/ios/.generated/
+app/nensai/**/ios/Flutter/.last_build_id
+app/nensai/**/ios/Flutter/App.framework
+app/nensai/**/ios/Flutter/Flutter.framework
+app/nensai/**/ios/Flutter/Flutter.podspec
+app/nensai/**/ios/Flutter/Generated.xcconfig
+app/nensai/**/ios/Flutter/ephemeral
+app/nensai/**/ios/Flutter/app.flx
+app/nensai/**/ios/Flutter/app.zip
+app/nensai/**/ios/Flutter/flutter_assets/
+app/nensai/**/ios/Flutter/flutter_export_environment.sh
+app/nensai/**/ios/ServiceDefinitions.json
+app/nensai/**/ios/Runner/GeneratedPluginRegistrant.*
+app/nensai/
+app/nensai/# macOS
+app/nensai/**/Flutter/ephemeral/
+app/nensai/**/Pods/
+app/nensai/**/macos/Flutter/GeneratedPluginRegistrant.swift
+app/nensai/**/macos/Flutter/ephemeral
+app/nensai/**/xcuserdata/
+app/nensai/
+app/nensai/# Windows
+app/nensai/**/windows/flutter/generated_plugin_registrant.cc
+app/nensai/**/windows/flutter/generated_plugin_registrant.h
+app/nensai/**/windows/flutter/generated_plugins.cmake
+app/nensai/
+app/nensai/# Linux
+app/nensai/**/linux/flutter/generated_plugin_registrant.cc
+app/nensai/**/linux/flutter/generated_plugin_registrant.h
+app/nensai/**/linux/flutter/generated_plugins.cmake
+app/nensai/
+app/nensai/# Coverage
+app/nensai/coverage/
+app/nensai/
+app/nensai/# Symbols
+app/nensai/app.*.symbols
+app/nensai/
+app/nensai/# Exceptions to above rules.
+app/nensai/!**/ios/**/default.mode1v3
+app/nensai/!**/ios/**/default.mode2v3
+app/nensai/!**/ios/**/default.pbxuser
+app/nensai/!**/ios/**/default.perspectivev3
+app/nensai/!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+app/nensai/!/dev/ci/**/Gemfile.lock
+app/nensai/!.vscode/settings.json
